@@ -1,0 +1,7 @@
+{
+  "name": "مصطفى لتسكين العمرة - Mustafa Umrah Housing",
+  "description": "منصة احترافية متكاملة لحجز فنادق مكة والمدينة مع مساعد ذكاء اصطناعي لتخطيط رحلتك.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
